@@ -1,0 +1,29 @@
+{
+  "name": "haip",
+  "version": "0.1.0",
+  "description": "Project so I can mess around with TS's type system",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitasuna/haip.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitasuna/haip/issues"
+  },
+  "homepage": "https://github.com/kitasuna/haip#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.0",
+    "jest": "^24.1.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.3.3"
+  }
+}
