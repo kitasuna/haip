@@ -66,7 +66,7 @@ const res2 = getter("c")("oh hai")
 
 # API
 
-## get :: <T>(obj: T) => (k: string) => <S>(def: S): S
+## get :: <T>(obj: T) => (k: string) => \<S\>(def: S): S
 
 ### obj
 This is the object you'd like to pull stuff out of
