@@ -36,7 +36,7 @@ const res2 = getter("c")("oh hai")
 // res2 = "oh hai"
 ```
 
-## Javascipt
+## JavaScript
 
 You obviously don't get typechecking this way, but hey, maybe you're just a super chill person. I'm not one to judge.
 
